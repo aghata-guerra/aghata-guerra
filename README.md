@@ -10,7 +10,7 @@
 - **Java e Orientação a Objetos** junto com seus frameworks **Spring Boot, Hibernate, JPA, JDBC**  
 - Bancos de dados: **MySQL & MongoDB**
 - **HTML, CSS e JavaScript** para web
-- Metodologia **Scrum**  
+- **Scrum Metodologia Ágil**  
 
 ---
 
