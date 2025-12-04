@@ -16,7 +16,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>  ![Scrum](https://img.shields.io/badge/Scrum-00A1E4?style=flat-square&logo=git&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira (Scrum Tool)" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>  ![Scrum](https://img.shields.io/badge/Scrum-00A1E4?style=flat-square&logo=git&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira (Scrum Tool)" width="40" height="40"/> 
           
 
 
@@ -33,7 +33,13 @@ Meu objetivo é crescer passo a passo, unindo teoria e prática para criar aplic
 
 ## 📈 Atividades no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aghata-guerra&show_icons=true&theme=tokyonight)           ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aghata-guerra&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aghata-guerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=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" alt="Estatísticas do GitHub" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghata-guerra&layout=compact&theme=tokyonight&hide_border=true&token=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" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
