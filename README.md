@@ -36,8 +36,6 @@ Meu objetivo é crescer passo a passo, unindo teoria e prática para criar aplic
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aghata-guerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   
-  <br/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghata-guerra&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
