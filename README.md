@@ -1,51 +1,83 @@
-# 👩‍💻 Olá, eu sou a Aghata Guerra!  
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIT (Universidade Tiradentes)  
-📅 Previsão de conclusão: Dezembro/2027  
-☕ Apaixonada por tecnologia, resolver problemas e aprender coisas novas.
-
----
-
-## 🚀 O que estou estudando no momento  
-- **Java e Orientação a Objetos** junto com seus frameworks **Spring Boot, Hibernate, JPA, JDBC**  
-- Bancos de dados: **MySQL & MongoDB**
-- **HTML, CSS e JavaScript** para web
-- **Scrum Metodologia Ágil**  
-
----
-
-## 🛠️ Tecnologias & Ferramentas  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>  ![Scrum](https://img.shields.io/badge/Scrum-00A1E4?style=flat-square&logo=git&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira (Scrum Tool)" width="40" height="40"/> 
-          
-
-
----
-
-## 🌱 Sobre mim  
-Sou uma pessoa curiosa e dedicada, que acredita que cada desafio é uma oportunidade de aprender. Estou iniciando minha jornada na área de tecnologia com foco em backend, mas também desenvolvendo habilidades em frontend, buscando me tornar uma profissional fullstack em formação.
-
-Além disso, estudo Scrum e metodologias ágeis, para entender melhor como trabalhar em equipes de desenvolvimento de forma organizada e eficiente.
-
-Meu objetivo é crescer passo a passo, unindo teoria e prática para criar aplicações cada vez mais robustas, seguras e eficientes, enquanto aprendo continuamente.
-
----
-
-## 📈 Atividades no GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghata-guerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghata-guerra&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Aghata%20Guerra&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedora%20Fullstack%20%7C%20ADS%20UNIT&descAlignY=58&descSize=16"/>
 </div>
 
 ---
 
-## 📫 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aghata%20Guerra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aghata-guerra/)  
-[![Gmail](https://img.shields.io/badge/Email-aghata19guerra@gmail.com-red?style=flat-square&logo=gmail)](mailto:aghata@example.com)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/aghata-guerra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aghata19guerra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-✨ *“Aprender é como programar: quanto mais prática, melhor fica o resultado.”*  
+## 👩‍💻 Sobre mim
 
+```java
+public class Aghata extends Desenvolvedora {
+
+    String curso     = "Análise e Desenvolvimento de Sistemas";
+    String faculdade = "UNIT - Universidade Tiradentes";
+    String foco      = "Backend com Java";
+    String objetivo  = "Desenvolvedora Fullstack";
+    boolean openToWork = true;
+}
+```
+
+---
+
+## 🚀 O que estou estudando
+
+- ☕ **Java** — OOP, Spring Boot
+- 🗄️ **Banco de Dados** — SQL 
+- 🌐 **Frontend** — HTML, CSS, JavaScript, React, Tailwind CSS
+- 📋 **Metodologias** — Scrum & Agile
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aghata-guerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghata-guerra&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  ✨ "Aprender é como programar: quanto mais prática, melhor fica o resultado."
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</div>
